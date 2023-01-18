@@ -1,5 +1,10 @@
 body {
-    color: deeppink;
+    color: black;
     text-align: center;
     font-family: "Arial";
+}
+
+div {
+    border-style: solid;
+    border-color: black;
 }
